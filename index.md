@@ -1,2 +1,2 @@
 Hello world!
-Frogs rule
+Frogs rule the world
